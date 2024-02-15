@@ -1,6 +1,7 @@
 
+## Data Scientist 📊
 
-## Hey, I'm Karina 👋  |  Data Scientist 📊
+## Hey, I'm Karina 👋  
 
 
 Un profesional de datos apasionado por transformar información en conocimiento. A continuación, te presento algunas de las tecnologías con las que trabajo:
