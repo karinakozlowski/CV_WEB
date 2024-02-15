@@ -14,7 +14,7 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 
 -  **Data Science Teacher Assistan** at  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
-- **CAD Designer Teacher ** at  [Educacion IT](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+- **CAD Designer Teacher** at  [Educacion IT](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
 
 ## Tecnologías Utilizadas
