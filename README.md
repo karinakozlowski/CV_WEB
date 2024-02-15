@@ -83,5 +83,5 @@ Deploy with Render
 ¡No dudes en contactarme si quieres discutir proyectos emocionantes o colaborar en iniciativas de datos!
 
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karinakozlowski@gmail.com?subject=¡Te encontré en GitHub - ¡Conectemos!&body=Hola Karina,%0D%0A%0D%0AHe encontrado tu perfil en GitHub y me gustaría conectarme contigo...) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@itsbrex.dev?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Brian-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karina-kozlowski-625535217/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/SXzbtvSX)
 
