@@ -12,9 +12,9 @@ Un profesional de datos apasionado por transformar información en conocimiento.
 
 > I'm Looking for a new role. If hiring, please reach out! &nbsp; [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karinakozlowski@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...)
 
-- 🚀 Data Science Teacher Assistan at Henry  [Bigo Live](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+- 🚀 Data Science Teacher Assistan at Henry  [Henry](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
-- 🚀 CAD Design Teacher Assistan at Educacion IT [Bigo Live](https://www.linkedin.com/in/karina-kozlowski-625535217/).
+- 🚀 CAD Design Teacher Assistan at Educacion IT [Educacion IT](https://www.linkedin.com/in/karina-kozlowski-625535217/).
 
 
 ## Tecnologías Utilizadas
